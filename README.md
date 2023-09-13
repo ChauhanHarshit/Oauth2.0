@@ -66,7 +66,7 @@ You also need to configure the MongoDB URI for your database:
 
 ## Usage
 
-To run the Wallet-Signup project, use the following command:
+To run the this project, use the following command:
 
 ```bash
 nodemon app.js
