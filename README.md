@@ -1,8 +1,8 @@
-# Oauth2.0
+# Wallet-Signup
 
 ## Overview
 
-Oauth2.0 is a Node.js web application that provides user authentication, including OAuth2 authentication with Google using Passport.js. It also incorporates cross-site request forgery (CSRF) protection for enhanced security.
+Wallet-Signup is a Node.js web application that provides user authentication, including OAuth2 authentication with Google using Passport.js. It also incorporates cross-site request forgery (CSRF) protection for enhanced security.
 
 ## Table of Contents
 
